@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Zomato_Zuniar</string>
+    <string-array name="judul">
+        <item>Buka Puasa Terbaik nih </item>
+        <item>Trending This Week</item>
+        <item>Depok Finest</item>
+        <item>Newly Opened</item>
+        <item>Magnificent Martabak</item>
+    </string-array>
+    <string-array name="outlet">
+        <item>35 Places</item>
+        <item>32 Places</item>
+        <item>124 Places</item>
+        <item>23 Places</item>
+        <item>11 Places</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Gather around with your loved ones in these best places for buka puasa</item>
+        <item>Most popular restaurants in town this week</item>
+        <item>The hunt for the highest-rated restaurants in your city ends here</item>
+        <item>The best new places in town</item>
+        <item>Sweet or salty? Your call! Check these places out for a nice and juicy martabak experience</item>
+    </string-array>
+    
+    <string-array name="imageURL">
+        <item>https://b.zmtcdn.com/data/collections/fb4528343ba630a5a0d736bc17bb18fd_1554785557.jpg?output-format=webp</item>
+        <item>https://b.zmtcdn.com/data/collections/acc0d176aacf152c8329282944316fa7_1535469415.jpg?output-format=webp</item>
+        <item>https://b.zmtcdn.com/data/collections/27f4896f7cbea3e4ae6923ce7b155757_1551247891.jpg?output-format=webp</item>
+        <item>https://b.zmtcdn.com/data/collections/fd0dc1764a5bfd4e88f931d7d13070a6_1535355689.jpg?output-format=webp</item>
+        <item>https://b.zmtcdn.com/data/collections/a4ac8426ff3dce54033a420adea80054_1418400295.jpg?output-format=webp</item>
+    </string-array>
+    
+    <string-array name="nama_restaurant">
+        <item>Selempang Nikmat</item>
+        <item>Jojo Cafe</item>
+        <item>Lumpang Bakwan</item>
+        <item>Western Opulance</item>
+        <item>Kitchen Dinner</item>
+    </string-array>
+    
+    <string-array name="nama_lokasi">
+        <item>Jonggol, Bogor</item>
+        <item>Margonda, Depok</item>
+        <item>Tajur 5, Jakarta</item>
+        <item>Pondok Indah, Jakarta</item>
+        <item>Tambun, Bekasi</item>
+    </string-array>
+    
+    <string-array name="harga">
+        <item>$ 31</item>
+        <item>$ 42</item>
+        <item>$ 63</item>
+        <item>$ 31</item>
+        <item>$ 62</item>
+    </string-array>
+    
+    <string-array name="url_restaurant">
+        <item>https://b.zmtcdn.com/data/pictures/9/7418529/672e77ee4213fc6a3386527b13dc9813.jpg</item>
+        <item>https://b.zmtcdn.com/data/pictures/6/7403186/feb8d63e904307bd7ea025298a5d07d4.jpg</item>
+        <item>https://b.zmtcdn.com/data/pictures/chains/9/7424959/95b35c0bcd48d16b0cd1a82a5f989ec5.jpg</item>
+        <item>https://b.zmtcdn.com/data/pictures/1/18568251/74d4532cc8e3da5b4f3f419f6c3a3425.jpg</item>
+        <item>https://b.zmtcdn.com/data/pictures/0/7402390/614dada8eddf511c376ac2989f6a5410.jpg</item>
+    </string-array>
+    
+    <string name="best_place">Best Place for Buka Puasa</string>
+    <string name="place">36 Places</string>
+    <string name="gather">Gather around with your loved ones in these best places for buka puasa</string>
+    
+    <string name="gurih">Gurih 7</string>
+    <string name="rate">4.3</string>
+    <string name="jenis">CASUAL DINING - SUNDA, JAWA, INDONESIA</string>
+    <string name="alamat1">Jl. Raya Pajajaran No. 102, Bogor Utara, Bogor 16153</string>
+    <string name="buka">- Buka pada jam 10 pagi</string>
+    <string name="direction">Directions</string>
+    <string name="menu">Menus</string>
+    <string name="review">Reviews(848)</string>
+    <string name="photo">Photos(372)</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="been_there">Been There</string>
+    <string name="share">Share</string>
+    <string name="add_review">Add Review</string>
+    <string name="rating">Rate this place</string>
+</resources>
