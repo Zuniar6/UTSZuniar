@@ -2,6 +2,8 @@ package com.example.uts.kategori;
 
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
+import android.support.annotation.RequiresApi;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,6 +27,7 @@ public class KategoriAdapter extends ArrayAdapter<Kategori> {
         this.resource = resource;
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.CUPCAKE)
     @Override
     public View getView(final int position, View convertView, ViewGroup parent) {
         Holder holder = null;

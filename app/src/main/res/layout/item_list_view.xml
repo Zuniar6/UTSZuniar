@@ -19,7 +19,7 @@
         android:layout_marginLeft="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Terpopuler Minggu ini"
+        android:text="Terlaris Minggu ini"
         android:textSize="18sp"
         android:layout_toRightOf="@+id/imageHeader"
         android:textColor="@color/hitam"/>
@@ -29,7 +29,7 @@
         android:layout_marginTop="4dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="8 Outlet"
+        android:text="10 Outlet"
         android:textSize="14sp"
         android:layout_toRightOf="@+id/imageHeader"
         android:layout_below="@+id/text_judul" />
@@ -39,7 +39,7 @@
         android:layout_marginLeft="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Restoran terpopuler di kotamu minggu ini"
+        android:text="Rumah Berbuka Populer minggu ini"
         android:textSize="14sp"
         android:layout_toRightOf="@id/imageHeader"
         android:layout_below="@+id/text_outlet"

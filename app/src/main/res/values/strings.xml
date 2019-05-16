@@ -15,11 +15,11 @@
         <item>11 Places</item>
     </string-array>
     <string-array name="deskripsi">
-        <item>Gather around with your loved ones in these best places for buka puasa</item>
-        <item>Most popular restaurants in town this week</item>
-        <item>The hunt for the highest-rated restaurants in your city ends here</item>
-        <item>The best new places in town</item>
-        <item>Sweet or salty? Your call! Check these places out for a nice and juicy martabak experience</item>
+        <item>Nikmatnya berbuka dengan Kami</item>
+        <item>Paling ternama deh</item>
+        <item>Untuk kamu yang memburu menu ramadhan terbaik</item>
+        <item>Sudah terbuka kembali</item>
+        <item>Martabak terbaik seantero</item>
     </string-array>
     
     <string-array name="imageURL">
@@ -62,15 +62,15 @@
         <item>https://b.zmtcdn.com/data/pictures/0/7402390/614dada8eddf511c376ac2989f6a5410.jpg</item>
     </string-array>
     
-    <string name="best_place">Best Place for Buka Puasa</string>
-    <string name="place">36 Places</string>
-    <string name="gather">Gather around with your loved ones in these best places for buka puasa</string>
+    <string name="best_place">Buka Puasa Terbaik nih</string>
+    <string name="place">35 Places</string>
+    <string name="gather">Nikmatnya berbuka dengan Kami</string>
     
-    <string name="gurih">Gurih 7</string>
-    <string name="rate">4.3</string>
-    <string name="jenis">CASUAL DINING - SUNDA, JAWA, INDONESIA</string>
-    <string name="alamat1">Jl. Raya Pajajaran No. 102, Bogor Utara, Bogor 16153</string>
-    <string name="buka">- Buka pada jam 10 pagi</string>
+    <string name="gurih">Selempang Nikmat</string>
+    <string name="rate">4.6</string>
+    <string name="jenis">CASUAL DINING - SUNDA, INDONESIA</string>
+    <string name="alamat1">Jl. Cileungsi Raya No. 13, Jonggol, Bogor 16153</string>
+    <string name="buka">- Buka pada jam 12 siang</string>
     <string name="direction">Directions</string>
     <string name="menu">Menus</string>
     <string name="review">Reviews(848)</string>
